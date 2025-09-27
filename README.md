@@ -177,7 +177,7 @@ autoChangeInterval = setInterval(setRandomBackground, 600000); // 10 minutes
 
 ## 💝 **Credits**
 
-**Created with ❤️ by GitHub Copilot**
+**Created with ❤️ by Sanyasee**
 
 ### **Image Sources**
 - [Pexels](https://pexels.com) - High-quality stock photography
