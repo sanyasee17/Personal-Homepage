@@ -468,7 +468,7 @@
       if (!trimmedQuery) return;
       
       const searchUrl = `https://www.google.com/search?q=${encodeURIComponent(trimmedQuery)}`;
-      window.open(searchUrl, '_blank');
+      window.location.href = searchUrl;
     }
 
     // ===== NAVIGATION HANDLERS =====
